@@ -61,7 +61,7 @@ class App:
 
         ### INIT WINDOW ###
         self.window = pyglet.window.Window(fullscreen=False, resizable=True)
-        self.window.set_caption("NEURAL NETWORK RACING by Tomas Brezina")
+        self.window.set_caption("NEURAL NETWORK RACING by Jack Ojango")
         if not self.window.fullscreen: self.window.set_size(settings["width"], settings["height"])
         self.window.set_minimum_size(400, 200)
         self.init_gl()

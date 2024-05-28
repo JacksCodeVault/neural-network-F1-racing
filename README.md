@@ -10,21 +10,19 @@ https://user-images.githubusercontent.com/46631861/161601803-30c7b0d2-ae7f-4145-
 
 
 > [!WARNING]
-> This code is a product of my early programming days. I've refactored it, but it might not align with current best practices.
+> This code is a product of my current Python programming . It might not align with current best practices.
 
 ## ▶️️ HOW TO RUN?
 
 ### Install packages
     pip install -r requirements.txt
 
-https://github.com/TomasBrezina/NeuralNetworkRacing/blob/e6ff65a77d38f0cdad01690a0a770a9eb9c2da2a/requirements.txt#L1-L3
-
 ### Run main file
 Should work with ``Python 3.0`` and higher.
 
 For example:
 
-    py -3.10 .\__main__.py
+    python __main__.py
 
 Or use a virtual environment.
 
